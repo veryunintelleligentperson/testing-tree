@@ -1,6 +1,6 @@
 let modInfo = {
-	name: "The ??? Tree",
-	author: "nobody",
+	name: "not very good tree",
+	author: "Exist (or veryunintelleligentperson)",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
@@ -12,16 +12,15 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "a.0",
+	name: "testy testing",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+		- idk man im just testing something`
 
-let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
+let winText = `your did it`
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
 // (The ones here are examples, all official functions are already taken care of)
